@@ -1,0 +1,11 @@
+body 
+{
+    color: deeppink;
+    text-align: center; /*texto alineado al centro*/
+    font-family: "arial";
+}
+
+p
+{
+    color:blue;
+}
