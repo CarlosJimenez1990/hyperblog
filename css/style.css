@@ -1,11 +1,20 @@
 body 
 {
-    color: deeppink;
-    text-align: center; /*texto alineado al centro*/
+    color: #333;
+    text-align: left;
     font-family: "arial";
 }
 
-p
+#container
 {
-    color:blue;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
